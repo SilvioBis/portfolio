@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Reenie Beanie
-- Font Author: Copyright (c) 2010 Typeco (james@typeco.com). All rights reserved.
-- Font Source: http://fonts.gstatic.com/s/reeniebeanie/v11/z7NSdR76eDkaJKZJFkkjuvWxbP2_qoOgf_w.ttf
+- Font Title: Akaya Telivigala
+- Font Author: Copyright 2015 The Akaya Telivigala Project Authors (https://github.com/vaishnavimurthy/Akaya-Telivigala)
+- Font Source: http://fonts.gstatic.com/s/akayatelivigala/v13/lJwc-oo_iG9wXqU3rCTD395tp0uifdLdsIH0YH8.ttf
 - Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
