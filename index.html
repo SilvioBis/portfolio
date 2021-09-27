@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--Link dos Icone criados no icons -->
     <link rel="stylesheet" href="style.css">
     <link rel="apple-touch-icon" sizes="180x180" href="imagens/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="imagens/favicon-32x32.png">
@@ -13,17 +14,47 @@
 </head>
 <body>
 
-    <div class="conteiner">
+    <div class="container">
+    
+<!-- Menu Hamburguer usando EMMET div.line#*3 criando as div -->
+        <div class="hamburguer"> 
+            <div class="line" id="line1"></div>
+            <div class="line" id="line2"></div>
+            <div class="line" id="line3"></div>
+        </div>
+    
         <header>
             <div class="img-wrapper">
                 <img src="imagens/bg.jpg" alt="Imagem de Fundo" srcset="">
             </div>
             <div class="banner">
-                <h1>Web developer Front end</h1>
+                <h1>web developer Front end</h1>
                 <p>Silvio R. Bis Joaquim</p>
                 <button>Saiba Mais!</button>
             </div>
         </header>
+         
+        <div class="sidebar"><!--Barra de menu-->
+            <nav>
+                <ul class="menu">
+                    <li class="menu-item"><a href="#" class="menu-link">Home</a></li>
+                    <li class="menu-item"><a href="#" class="menu-link">Conhecimento</a></li>
+                    <li class="menu-item"><a href="#" class="menu-link">Projetos</a></li>
+                    <li class="menu-item"><a href="#" class="menu-link">Contato</a></li>
+                    <!--Não fiz barra de orçamento-->
+                </ul>
+            </nav>
+            <div class="social-media">
+                <a href=""><i class="fab fa-facebook"></i></a>
+                <a href=""><i class="fab fa-github"></i></a>
+                <a href=""><i class="fab fa-linkedin"></i></a><!-- troquei twiter e add Linkdin-->
+            </div>
+
+
+
+        </div>
+        
+
     </div>
 </body>
 </html>
