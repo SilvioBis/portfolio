@@ -3,7 +3,7 @@ Developer Portfolio
 
 ## Tarefas
 
-O controle das tarefas desse projeto serpa realizada no GitHub
+O controle das tarefas desse projeto será realizada no GitHub
 
 ## Icones
 
